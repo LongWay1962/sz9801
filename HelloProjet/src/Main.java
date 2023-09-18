@@ -6,7 +6,7 @@ public class Main {
     public void testHelloWrold() {
 
         System.out.println("HelloWadsfasdforld!");
-        System.out.println("HelloWaasdforld!");
+        System.out.println("Helloq我是老二，吃了又睡sdforld!");
         System.out.println("HellasdfoWorld!");
 	}
 }

@@ -10,4 +10,8 @@ public class Main {
         System.out.println("He我是老大 ffoWorld!");
         System.out.println("HellasdfoWorld!");
 	}
+	
+	public static void main(String[] args){
+		
+	}
 }
